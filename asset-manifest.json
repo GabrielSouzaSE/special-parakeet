@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/special-parakeet/static/css/main.9b2086b8.css",
+    "main.js": "/special-parakeet/static/js/main.6608802c.js",
+    "index.html": "/special-parakeet/index.html",
+    "main.9b2086b8.css.map": "/special-parakeet/static/css/main.9b2086b8.css.map",
+    "main.6608802c.js.map": "/special-parakeet/static/js/main.6608802c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b2086b8.css",
+    "static/js/main.6608802c.js"
+  ]
+}
